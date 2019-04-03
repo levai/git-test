@@ -7,3 +7,7 @@ Git is free software.
 
 Git has a mutable index called stage.
 Git tracks changes.
+
+
+Creating a new branch is quick.
+这里是在新的分支 dev增加的
